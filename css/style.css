@@ -1,0 +1,36 @@
+body {
+    background: brown;
+}
+
+p {
+    color: aqua;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+h1 {
+    color: black;
+}
+
+.test {
+    width: 20%;
+    color: aliceblue;
+    border-radius: 10px;
+}
+
+#jejje {
+    color: red;
+}
+
+.holaa {
+    border-radius: 10px;
+}
+
+.l {
+    line-break: auto
+}
+
+p {
+    tab-size: 10px;
+}
